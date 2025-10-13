@@ -1,3 +1,13 @@
+25-07-23 [1:24:19](https://www.youtube.com/watch?v=lZUI_AoqpkU&t=1h24m19s) Live coding: Stack Canvas - Part 2 - https://gist.github.com/slightfoot/5ec2d490f95e6d6aacbdb903e83039fc  
+25-07-09 [1:25:13](https://www.youtube.com/watch?v=ilvgEENnBjg&t=1h25m13s) Live coding: Stack Canvas - https://gist.github.com/slightfoot/2f1fb7aa3fb7c78dfc1f06ad94ad1764  
+25-05-14 [53:29](https://www.youtube.com/watch?v=D9y5G3LmrSY&t=53m29s) Live coding: Custom Scrolling Offsets - https://gist.github.com/slightfoot/7f9fc1f64d305bb9653f8613d8372048  
+25-05-07 [1:54:29](https://www.youtube.com/watch?v=CqmhwUnesvQ&t=1h54m29s) Live coding: MVPVMS pattern - https://gist.github.com/slightfoot/a910d472a123e315d9f7af08018ec5b7  
+25-05-07 [1:27:27](https://www.youtube.com/watch?v=CqmhwUnesvQ&t=1h27m27s) Live coding: Testing dot-shorthand experimental feature  
+25-04-23 [2:40:01](https://www.youtube.com/watch?v=XRuKywXD7zM&t=2h40m01s) Live coding: Deferred loading - https://gist.github.com/slightfoot/0761038ed3afeb3aa899646d5a1c60b5  
+25-04-23 [1:32:33](https://www.youtube.com/watch?v=XRuKywXD7zM&t=1h32m33s) Live coding: Localizations  
+25-04-16 [20:18](https://www.youtube.com/watch?v=CgiIh96C2DI&t=20m18s) Live coding: Canceling a future  
+25-04-09 [1:10:17](https://www.youtube.com/watch?v=LddUVHziMaM&t=1h10m17s) Live coding: Mocking an API - https://gist.github.com/slightfoot/07f126b2a15b898c03f5479d8cbdaabe  
+25-03-26 [1:45:13](https://www.youtube.com/watch?v=HVMXJTxEDnw&t=1h45m13s) live coding: Exploring forms and refactorings - https://gist.github.com/slightfoot/f28b65d3a2dca285fa367d8df453f2fa  
 25-02-26 [1:51:47](https://www.youtube.com/watch?v=wn_g2Z6RaZ8&t=1h51m47s) Live coding: Refactoring screen transition - https://gist.github.com/slightfoot/c6b744a2baf0f6378fbb8d41880c4c95  
 25-02-05 [1:17:05](https://www.youtube.com/watch?v=894TQwZ8V0o&t=1h17m05s) Live coding: Reinventing the navigator/router - https://gist.github.com/slightfoot/28ad9f403be22581375ef598b3122c02  
 25-01-22 [1:50:51](https://www.youtube.com/watch?v=Xyb2u5grptA&t=1h50m51s) Live coding: Refactoring Healty happy pets homepage - https://gist.github.com/slightfoot/0a573044351c9be9d46ef936c18adb4e  
